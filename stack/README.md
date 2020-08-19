@@ -14,7 +14,8 @@ Here you will find the libraries and frameworks we recommend that have been used
 
 
 ### [React](https://reactjs.org/)
-> **Size:** 6.3kB minified, 2.6kB minified + gzipped
+
+> **Size:** 6.3kB minified, 2.6kB minified + gzipped\
 > **Composition:** 100% (self)
 
 - **What it is:** TypeScript is an open-source superset of JavaScript that adds static type definitions. Types provide a way to describe the shape of an object, providing better documentation, and allowing TypeScript to validate that your code is working correctly.
@@ -23,7 +24,8 @@ Here you will find the libraries and frameworks we recommend that have been used
 
 
 ### [React Router](https://reactrouter.com/)
-> **Size:** 20.9kB minified, 7.3kB minified + gzipped
+
+> **Size:** 20.9kB minified, 7.3kB minified + gzipped\
 > **Composition:** 35% history, 34% (self)
 
 
