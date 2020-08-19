@@ -1,7 +1,7 @@
 # The Tech Stack
 Here you will find the libraries and frameworks we recommend that have been used together in large-scale production applications.
 
-
+<br>
 
 ## Foundational
 
@@ -11,6 +11,9 @@ Here you will find the libraries and frameworks we recommend that have been used
 - **What it is:** TypeScript is an open-source superset of JavaScript that adds static type definitions. Types provide a way to describe the shape of an object, providing better documentation, and allowing TypeScript to validate that your code is working correctly.
 
 - **Why we like it:** In addition to the above, TypeScript includes all modern JavaScript features, is incredibly stable, compiles quickly, and is often much easier to implement than alternative options.
+
+
+### [Webpack](https://webpack.js.org/)
 
 
 ### [React](https://reactjs.org/)
@@ -25,9 +28,7 @@ Here you will find the libraries and frameworks we recommend that have been used
 > **Composition:** 35% history, 34% (self)
 
 
-### [Webpack](https://webpack.js.org/)
-
-
+<br>
 
 ## Form Management
 
@@ -37,21 +38,31 @@ Here you will find the libraries and frameworks we recommend that have been used
 > **Composition:** 100% (self)
 
 
+<br>
 
 ## Graphing
 
 
+<br>
 
 ## Animation
 
 
+<br>
 
 ## State Management
 
 
+<br>
 
 ## Documentation
 
 
+<br>
 
 ## Utilities
+
+### [Lodash](https://lodash.com/)
+
+> **Size:** 69.9kB minified, 24.4kB minified + gzipped\
+> **Composition:** 100% (self)
