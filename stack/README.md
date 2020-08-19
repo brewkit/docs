@@ -13,7 +13,9 @@ Here you will find the libraries and frameworks we recommend that have been used
 - **Why we like it:** In addition to the above, TypeScript includes all modern JavaScript features, is incredibly stable, compiles quickly, and is often much easier to implement than alternative options.
 
 
-### [React](https://reactjs.org/)(6.3kB minified, 100% self-composed)
+### [React](https://reactjs.org/)
+
+- **6.3kB minified, 100% self-composed**
 
 - **What it is:** TypeScript is an open-source superset of JavaScript that adds static type definitions. Types provide a way to describe the shape of an object, providing better documentation, and allowing TypeScript to validate that your code is working correctly.
 
