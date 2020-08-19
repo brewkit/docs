@@ -31,14 +31,27 @@ Here you will find the libraries and frameworks we recommend that have been used
 
 ## Form Management
 
+### [React Hook Form](https://react-hook-form.com/)
+
+> **Size:** 24.2kB minified, 8.6kB minified + gzipped\
+> **Composition:** 100% (self)
+
+
 
 ## Graphing
+
 
 
 ## Animation
 
 
+
 ## State Management
 
 
+
 ## Documentation
+
+
+
+## Utilities
