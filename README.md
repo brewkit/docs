@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">An easy-to-theme design system for creating impactful UIs using React and TypeScript.</p>
+<p align="center">A comprehensive standard for building impactful web apps.</p>
 
 ---
 
