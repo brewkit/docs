@@ -1,6 +1,7 @@
 # The Tech Stack
 Here you will find the libraries and frameworks we recommend that have been used together in large-scale production applications.
 
+
 ## Foundational
 
 ### [TypeScript](https://www.typescriptlang.org/)
@@ -13,3 +14,18 @@ Here you will find the libraries and frameworks we recommend that have been used
 ### [React Router](https://reactrouter.com/)
 
 ### [Webpack](https://webpack.js.org/)
+
+
+## Form Management
+
+
+## Graphing
+
+
+## Animation
+
+
+## State Management
+
+
+## Documentation
