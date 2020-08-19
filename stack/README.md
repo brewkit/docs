@@ -13,8 +13,11 @@ Here you will find the libraries and frameworks we recommend that have been used
 - **Why we like it:** In addition to the above, TypeScript includes all modern JavaScript features, is incredibly stable, compiles quickly, and is often much easier to implement than alternative options.
 
 
+<div style="background-color: rgba(0,0,0,0.10);">
+  
 ### [Webpack](https://webpack.js.org/)
 
+</div>
 
 ### [React](https://reactjs.org/)
 
