@@ -1,6 +1,6 @@
 # Architecture
 Long-term maintenance is hard. Below you will find some standards and concepts we use to try to keep things simple, organized, and easy to maintain.
-Keep in mind these assume a TypeScript + React + Material-UI stack.
+Keep in mind these assume a TypeScript + React stack.
 
 <br>
 
