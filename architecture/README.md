@@ -19,6 +19,8 @@ Styles and types should be in their own files, separate from the meat of the com
         |- types.ts
 ```
 
+
+
 ### types.ts
 
 Your types file should export the types necessary for your component and any additional type-related configuration necessary
