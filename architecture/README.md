@@ -6,9 +6,9 @@ Keep in mind these assume a TypeScript + React + Material-UI stack.
 
 
 
-## Component Structure
+## Component File Structure
 
-Styles and types should be in their own files, separate from the meat of the component itself. So your typical file breakdown should look something like this:
+Styles and types should be in their own files, separate from the meat of the component itself. So your typical file structure should look something like this:
 
 ```
 |- components
