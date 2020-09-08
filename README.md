@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">A questionable standard for building impactful web apps.</p>
+<p align="center">A opinionated, questionable standard for building impactful web apps.</p>
 
 ---
 
