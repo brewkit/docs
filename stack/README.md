@@ -55,6 +55,13 @@ Here you will find the libraries and frameworks we recommend that have been used
 
 <br>
 
+## Testing
+
+### [Jest](https://jestjs.io/)
+
+
+<br>
+
 ## Documentation
 
 
@@ -66,3 +73,9 @@ Here you will find the libraries and frameworks we recommend that have been used
 
 > **Size:** 69.9kB minified, 24.4kB minified + gzipped\
 > **Composition:** 100% (self)
+
+
+### [SplitIO](https://www.split.io/)
+
+> **Size:** 123.2kB minified, 36kB minified + gzipped\
+> **Composition:** 88% splitio, 6% (self)
